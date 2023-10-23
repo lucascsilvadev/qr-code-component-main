@@ -88,6 +88,26 @@
     }
 }
 
+
+@media (min-width: 1440px) {
+    #card {
+        width: 20%;
+        height: 55%;
+        
+    }
+
+    #card__title {
+        font-size: 1.2em;
+        padding: 0 0.5em;
+    }
+
+    #card__text {
+        font-size: 1.em;
+        padding: 0 0.8em;
+        
+    }
+}
+
 @media (min-width: 1920px) {
     #card {
         width: 20%;
